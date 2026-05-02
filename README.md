@@ -1,6 +1,8 @@
 # LF-DT NL
 All efforts towards Linux Foundation - ToIP, OSSF, and DT focussed on the roll out in the Netherlands (NL)
 
+> Issues mainly in the Dutch language
+
 ##  To the Keri Foundation team
 
 Welcome to The Linux Foundation as a new member of LF Decentralized Trust! We are excited to collaborate with you to build open source software, communities, standards, and specifications of blockchain, ledger, identity, cryptographic, and related technologies that are critical for the macro shift toward decentralized systems of distributed trust.
