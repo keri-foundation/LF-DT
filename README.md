@@ -1,5 +1,5 @@
-# LF-DT
-All efforts towards Linux Foundation - ToIP, OSSF, and DT 
+# LF-DT NL
+All efforts towards Linux Foundation - ToIP, OSSF, and DT focussed on the roll out in the Netherlands (NL)
 
 ##  To the Keri Foundation team
 
